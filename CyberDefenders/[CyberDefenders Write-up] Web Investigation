@@ -1,1 +1,160 @@
+# CyberDefenders - Web Investigation
 
+**Platform:** CyberDefenders  
+**Category:** Network Forensics  
+**Difficulty:** Easy  
+**Tools:** Wireshark, NetworkMiner  
+**Artifact:** WebInvestigation.pcap  
+**Tags:** PCAP, Wireshark, HTTP, SQL Injection, DFIR
+
+---
+
+## Scenario
+
+You are a cybersecurity analyst working in the
+Security Operations Center (SOC) of BookWorld.
+
+An automated alert was triggered due to an
+unusual increase in database queries and server
+resource usage.
+
+The objective is to investigate the captured
+network traffic, identify the attack vector,
+assess the potential data exposure, and
+determine whether the attacker gained further
+access to the web server.
+
+---
+
+## Investigation
+
+### Q1: Identify the attacker's IP address
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q1 Evidence](Screenshots/Q1.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q2: Determine the attacker's geographical origin
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q2 Evidence](Screenshots/Q2.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q3: Identify the vulnerable script
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q3 Evidence](Screenshots/Q3.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q4: Identify the first SQL Injection request
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q4 Evidence](Screenshots/Q4.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q5: Identify the request used to enumerate databases
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q5 Evidence](Screenshots/Q5.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q6: Identify the table containing website users' data
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q6 Evidence](Screenshots/Q6.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q7: Identify the discovered hidden directory
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q7 Evidence](Screenshots/Q7.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q8: Identify the credentials used by the attacker
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q8 Evidence](Screenshots/Q8.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+### Q9: Identify the malicious uploaded script
+
+[Investigation narrative]
+
+**Evidence:**
+
+![Q9 Evidence](Screenshots/Q9.png)
+
+**Answer:**
+
+`[Verified Answer]`
+
+---
+
+## Conclusion
+
+[Summarize the attack chain and the findings
+confirmed by the packet capture.]
