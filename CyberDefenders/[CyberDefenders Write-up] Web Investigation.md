@@ -119,7 +119,7 @@ These indicators helped distinguish the attacker's traffic from ordinary applica
 
 **Wireshark - IPv4 Conversations**
 
-![IPv4 Conversations](Screenshots/Q1-IPv4-Conversations.png)
+![IPv4 Conversations](Screenshots/CyberDefenders/Web-Investigation/Q1-IPv4-Conversations.png)
 
 **HTTP User-Agent Analysis**
 
